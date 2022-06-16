@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T09:30:19.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="17.4.6" etag="4zVdBuxnZx0R31qNAwgE" type="github"><diagram id="xG7pG63uhHe4g3Ens1EL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-16T04:16:51.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nzkEqPQcmXBdekXYaa2A" version="20.0.1" type="github">
+  <diagram id="xG7pG63uhHe4g3Ens1EL" name="ページ1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-1" value="SVPAPY&lt;br&gt;WindowsServer2008R2" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-2" value="Hyper-V" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-3" value="HISV-003&lt;br&gt;Windows7Pro32bit&lt;br&gt;MicrosoftOffice2010Professional&lt;br&gt;&lt;br&gt;外来ディスプレイ更新バッチ&lt;br&gt;&lt;br&gt;&lt;br&gt;外来医師不在更新バッチファイル" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-4" value="SVGW&lt;br&gt;WindowsServer2008R2" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-5" value="IIS" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-7" value="受付表示用コンテンツ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-8" value="待合室用コンテンツ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-9" value="診察室前用コンテンツ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0CjRx2AvqoFP3pz6a5OY-10" value="医師不在用コンテンツ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="610" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
